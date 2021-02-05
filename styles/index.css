@@ -13,3 +13,10 @@
 /* Stop purging. */
 
 /* Your own custom utilities */
+
+
+@layer base {
+    a {
+      @apply underline;
+    }
+  }
