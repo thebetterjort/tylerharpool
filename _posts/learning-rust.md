@@ -12,14 +12,14 @@ ogImage:
 
 ## A Brief History
 
-I finished readking through the [Rust Lang book](https://doc.rust-lang.org/book/). It was engaging enough for me to want more. Later, I found a [Rust Youtube channel](https://www.youtube.com/channel/UCaYhcUwRBNscFNUKTjgPFiA) and one video where several people were discussing the internals of async/wait in Rust. Unless you are on the internal developer team you aren't going to find much value here. Going back to the [Rust website](https://rust-lang.org) you will find several different options for learning. 
+Reading through the [Rust Lang book](https://doc.rust-lang.org/book/) was a exciting and engaging experience. The whole feeling of building out these super fast cargos of code was thrilling. Later, I found a [Rust Youtube channel](https://www.youtube.com/channel/UCaYhcUwRBNscFNUKTjgPFiA) and one video where several people were discussing the internals of async/wait in Rust. Unless you are on the internal developer team you probably aren't going to find much value. Going back to the [Rust website](https://rust-lang.org) you will find several different options for learning. 
 
 ## Why Rust?
 
- I don't remember how I discovered Rust, but I do remember stumbling upon [Writing an OS in Rust](https://os.phil-opp.com/) by Philipp Oppermann. I think it was this time that I decided that I need to take a look at rust. Besides, I like the challenge of learning new things, so creating my own operating system and learning a new language seemed like a good fit.
+ I don't remember how I discovered Rust, but I do remember stumbling upon [Writing an OS in Rust](https://os.phil-opp.com/) by Philipp Oppermann. I think it was this time that I decided that I need to take a look at Rust. Besides, I like the challenge of learning new things, so creating my own operating system and learning a new language seemed like a good fit.
 
 ## First App
-The first post has to be something greater than a "hello world" right? [Wrong, we must learn about the macros](hello-world)
+The first post has to be something greater than a "hello world" right? [Wrong, we must learn about the macros](hello-world). We will learn Rust by building out several mini projects that will make our skills razor sharp.
 
 
 
