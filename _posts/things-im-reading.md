@@ -1,6 +1,6 @@
 ---
 title: "Things I've read"
-excerpt: "You can find not everything I've read but the things I have found to be important for one reason or another."
+excerpt: "You can't find everything I've read but just the things I have found to be important for one reason or another."
 coverImage: '/assets/blog/preview/cover.jpg'
 date: '2021-02-05T05:35:07.322Z'
 author:
