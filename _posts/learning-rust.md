@@ -12,7 +12,7 @@ ogImage:
 
 ## A Brief History
 
-I read through the [Rust Lang book](https://doc.rust-lang.org/book/).  I finished the project and enjoyed the process enough to want me to learn more. Later, I found a [Rust Youtube channel](https://www.youtube.com/channel/UCaYhcUwRBNscFNUKTjgPFiA) and one video where several people were discussing the internals of async/wait in Rust. Unless you are on the internal developer team you aren't going to find much value here. Going back to the [Rust website](https://rust-lang.org) you will find several different options for learning. 
+I finished readking through the [Rust Lang book](https://doc.rust-lang.org/book/). It was engaging enough for me to want more. Later, I found a [Rust Youtube channel](https://www.youtube.com/channel/UCaYhcUwRBNscFNUKTjgPFiA) and one video where several people were discussing the internals of async/wait in Rust. Unless you are on the internal developer team you aren't going to find much value here. Going back to the [Rust website](https://rust-lang.org) you will find several different options for learning. 
 
 ## Why Rust?
 
