@@ -13,9 +13,10 @@ ogImage:
 
 ## Macros
 
-I admit I've ever coded in C++/C. And to me, a garbage collector is something that happens every Thursday. Actually, that reminds me its trash day and I haven't taken out the trash.  Not learning C and C++ actually makes my path towards Rust seem all that much stranger to me. Especially given the references and the assumption that I should know how C++ handles things. 
+The [Hello World](https://doc.rust-lang.org/stable/rust-by-example/macros.html) example on the [Rust Website](https://rust-lang.org) mentions `println!` outputs the text to the terminal. For us to create the `hello world` application in Rust we should use this highly efficient [macro](https://doc.rust-lang.org/stable/rust-by-example/macros.html), but do not mistake it for a function because that would be wrong. `Macros` differ to `fn` by the use of `!` after the constant. 
 
-For instance, The [Hello World](https://doc.rust-lang.org/stable/rust-by-example/macros.html) example on the Rust Website mentions `println!` is a macro. In order for us to create the hello world we should use this macro, but do not mistake it for a function because that would be wrong. Macros differ by the use of ! after the name. macro_rules!, printLn!.
+We can see: `macro_rules!`, `printLn!` in the code below:
+The Rust people, want you to remember that using Macros is highly efficient because its not a string like you would find in C, but a Abstract Syntax Tree, so you will not get as many bugs. 
 
 Here is the basic `Hello World` app:
 
@@ -36,6 +37,17 @@ fn main() {
 
 ```
 
-This is basic enough. We have our main function, described as `fn main()` in Rust. The Rust Documentation says. "Rust provides a powerful macro system that allows metaprogramming." That is cool, but the benefits are not very apparent from looking at the code, and I don't know what metaprogramming is, or do I? I read Wikipedia and I found that being able to modify yourself even when running was a cool idea. Then I read Stack Overflow article on metaprogramming which one of the answers said I should read [Paul Graham's essay "What Made Lisp Different"](http://www.paulgraham.com/diff.html) and so I did. 
+This example is basic enough. We have a main function that we define as `fn main()`. The [Rust Documentation](https://doc.rust-lang.org/beta/book/index.html) says, "Rust provides a powerful macro system that allows [metaprogramming](https://en.wikipedia.org/wiki/Metaprogramming)." That is cool, but the benefits are not very apparent from looking at the code, and I don't know what [metaprogramming](https://en.wikipedia.org/wiki/Metaprogramming) is, or do I? I read [Wikipedia](https://en.wikipedia.org/wiki/Metaprogramming) and my initial reaction is that being able to modify your app even when its still running sounds cool. Then I read this [Stack Overflow](https://stackoverflow.com/a/514697/562312) article on what metaprogramming was. The answer I found interesting said I should read [Paul Graham's essay "What Made Lisp Different"](http://www.paulgraham.com/diff.html) and so I did. 
 
-To be continued...
+## Conclusion
+* Macros can be described as "writing code that writes code"
+
+## Questions
+* How do we build new Macros? 
+* What are `Macros` benefits over `fn`?
+
+# Next
+* Rust feels so primative. (Coming soon...)
+
+
+
