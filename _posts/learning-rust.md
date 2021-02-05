@@ -12,11 +12,11 @@ ogImage:
 
 ## A Brief History
 
-I read through the Rust Lang book that is provided here. I also went to the Rust Youtube channel here and watched several people discuss the internals of async/wait in Rust. I wish I could say it wasn't over my head. I went back to the Rust website and found several options for learning more, so I started with the example section here. 
+I read through the [Rust Lang book](https://doc.rust-lang.org/book/).  I finished the project and enjoyed the process enough to want me to learn more. Later, I found a [Rust Youtube channel](https://www.youtube.com/channel/UCaYhcUwRBNscFNUKTjgPFiA) and one video where several people were discussing the internals of async/wait in Rust. Unless you are on the internal developer team you aren't going to find much value here. Going back to the [Rust website](https://rust-lang.org) you will find several different options for learning. 
 
 ## Why Rust?
 
-Now that I'm thinking about it I don't remember exactly how I discovered Rust, but I remember stumbling upon (oh, how I miss this site) [Writing an OS in Rust](https://os.phil-opp.com/) by Philipp Oppermann. I like the challenge of learning new things, so creating my own operating system while learning this new language seemed like a good fit for me personally. The problem though, I'm not ready to deep diving into Phillipp's blog as I'm grossly inadquate in understanding system level languages like Rust. It will still be a while before I think I can full unleash Rust.
+ I don't remember how I discovered Rust, but I do remember stumbling upon [Writing an OS in Rust](https://os.phil-opp.com/) by Philipp Oppermann. I think it was this time that I decided that I need to take a look at rust. Besides, I like the challenge of learning new things, so creating my own operating system and learning a new language seemed like a good fit.
 
 ## First App
 The first post has to be something greater than a "hello world" right? [Wrong, we must learn about the macros](hello-world)
