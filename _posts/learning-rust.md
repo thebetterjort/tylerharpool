@@ -12,7 +12,7 @@ ogImage:
 
 ## A Brief History
 
-Reading through the [Rust Lang book](https://doc.rust-lang.org/book/) was a deceptively exciting and engaging experience. The whole feeling of building out these super fast cargos of code was thrilling. Later, I found a [Rust Youtube channel](https://www.youtube.com/channel/UCaYhcUwRBNscFNUKTjgPFiA) and [one video](https://www.youtube.com/watch?v=skos4B5x7qE) where several people were discussing the internals of [async/wait](https://rust-lang.github.io/async-book/01_getting_started/04_async_await_primer.html) in Rust. Unless you are a [Rust Developer team](https://github.com/rust-lang/rust/graphs/contributors) you probably aren't going to find much value. Going back to the [Rust website](https://rust-lang.org) you will find several different options for learning. My favorite of course is learning by example. Let's go through those first.
+Reading through the [Rust Lang book](https://doc.rust-lang.org/book/) was a deceptively exciting and an engaging experience. The whole feeling of building out these super fast cargos of code was thrilling. Later, I found a [Rust Youtube channel](https://www.youtube.com/channel/UCaYhcUwRBNscFNUKTjgPFiA) and [one video](https://www.youtube.com/watch?v=skos4B5x7qE) where several people were discussing the internals of [async/wait](https://rust-lang.github.io/async-book/01_getting_started/04_async_await_primer.html) in Rust. Unless you are a [Rust Developer team](https://github.com/rust-lang/rust/graphs/contributors) you probably aren't going to find much value. Going back to the [Rust website](https://rust-lang.org) you will find several different options for learning. My favorite of course is learning by example. Let's go through those first.
 
 ## Why Rust?
 
